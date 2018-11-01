@@ -1,0 +1,13 @@
+@import '../../assets/scss/main.scss';
+
+.section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: $pink-color;
+
+  h6 {
+    font-size: 2.5rem;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+}
