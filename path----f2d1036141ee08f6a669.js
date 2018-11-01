@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{98:function(t,e){t.exports={data:{site:{siteMetadata:{title:"ckwright",description:"Senior Product Manager",url:"http://ckwright.com/",keywords:"ux, product manager, portfolio, personal website"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----f2d1036141ee08f6a669.js.map
