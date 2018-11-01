@@ -19,6 +19,7 @@ module.exports = {
   ],
   siteMetadata: {
     title: 'ckwright',
+    pathPrefix: "/ckwright.com",
     description: 'Senior Product Manager',
     keywords: 'ux, product manager, portfolio, personal website',
     url: 'http://ckwright.com/'
